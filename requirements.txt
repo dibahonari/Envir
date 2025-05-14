@@ -1,0 +1,23 @@
+# -------------------------------
+# Python / pip requirements
+# -------------------------------
+numpy>=1.21
+opencv-python>=4.5
+pyrealsense2>=2.50
+torch>=1.12
+fastsam>=0.1
+numba>=0.55
+flask>=2.0
+flask-socketio>=5.0
+python-engineio>=4.0
+python-socketio>=5.0
+eventlet>=0.33
+
+# -------------------------------
+# ROS (system) requirements
+# install these via apt, e.g.:
+#   sudo apt install python3-rospy ros-noetic-nav-msgs ros-noetic-std-msgs
+# -------------------------------
+# python3-rospy
+# ros-noetic-nav-msgs
+# ros-noetic-std-msgs
